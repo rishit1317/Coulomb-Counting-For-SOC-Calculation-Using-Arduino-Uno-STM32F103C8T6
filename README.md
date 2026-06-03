@@ -1,2 +1,0 @@
-# Coulomb-Counting-For-SOC-Calculation-Using-Arduino-Uno-STM32F103C8T6
-A MCU-based Coulomb Counting system for real-time battery (SOC) estimation in Formula Bharat EV applications. Implements current sensing, ADC acquisition, and charge integration to track  SOC. Developed and validated on Arduino Uno and STM32 Blue Pill platforms for integration into custom Power Distribution Module (PDM) &amp; (BMS) architectures.
