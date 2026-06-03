@@ -113,7 +113,7 @@ The implementation successfully:
 
 ## Authors
 
-**Sanchit Joshi**
-**Rishit Shetty**
+*Sanchit Joshi*
+*Rishit Shetty*
 
-Octane Racing Electric Vehicle Team
+Team Octane Racing Electric
